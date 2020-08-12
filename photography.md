@@ -1,5 +1,8 @@
 ####  摄影就是光与影的艺术
 
+![photography](https://github.com/wangcongyi/test/blob/master/images/photo.jpg)
+
+
 1. 曝光 -- 亮处不能过曝，暗处不能漆黑一片  
 
 2. 光圈（f） --  控制进光量的装置 同时也影响景深 数字越大 光圈越小 进光越少  
