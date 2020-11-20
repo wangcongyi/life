@@ -4,4 +4,5 @@
 
 
 - 肯尼亚 内罗毕 长颈鹿庄园主题酒店  
-- 冰岛  B站up主 [亲爱的嘉倩](https://space.bilibili.com/388362147)
+- 冰岛  B站up主 [亲爱的嘉倩](https://space.bilibili.com/388362147)  
+- 葡萄牙 亚速尔群岛
