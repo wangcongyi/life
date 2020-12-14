@@ -1,4 +1,19 @@
-#### 单词
+| 五大句型 | -- |
+| :--: | :-- | 
+| S + V         | He died yesterday        | 
+| S + V + O     | I bought a car yesterday | 
+| S + V + O + O | Michael gave him a book  |
+| S + V + C     | The car is beautiful     | 
+| S + V + O + C | I find the purse pretty  | 
+
+
+<table>
+  <tr>
+    <th> 单词 </th>
+    <th> 句子 </th>
+  </tr>
+  <tr>
+    <td>
 
 | 词性 | 全称 | 简写 |                                         
 | :--: | :-- | :-- |                
@@ -13,8 +28,8 @@
 | 连词 | conjunction | conj. |
 | 感叹词 | interjection | interj. |
 
+</td><td>
 
-#### 句子
 
 | 成分 | 简写 | 词性 |
 | :--: | :-- | :-- |
@@ -25,12 +40,4 @@
 | 状语 |   | 副词 |
 | 补语 | C complemet | 名词/形容词|
 
-
-| 五大句型 | -- |
-| :--: | :-- | 
-| S + V         | He died yesterday        | 
-| S + V + O     | I bought a car yesterday | 
-| S + V + O + O | Michael gave him a book  |
-| S + V + C     | The car is beautiful     | 
-| S + V + O + C | I find the purse pretty  | 
-
+</td></tr> </table>
