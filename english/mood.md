@@ -13,6 +13,9 @@
 | 与奖来相反  | were to do |  [would、should、could、might] + do        |   
 
 
+虚拟语气表达的是**非事实**的情况，采用过去为表达方式。  
+也就是说  现在时间，动词却使用 过去式；  过去时间 动词使用过去的过去--过去完成时
+
 对现在的虚拟  
   - if i were you, I would accept the offer.  
   - I should like to give it a try, if i knew how.
@@ -25,7 +28,7 @@
 
 
 对将来的虚拟
-  - If i were to tell the truth to my boyfriend, he wiuld kill me!  
+  - If i were to tell the truth to my boyfriend, he would kill me!  
   - If he were to graduate on schedule, you could call me blind.
   
   
