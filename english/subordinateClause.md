@@ -27,10 +27,11 @@
    He washes the car every day.  
    The car is awesome.  
     => The car which he washes every day is awesome.  
-   
-1.1 先行词在从句做主语  
-  The man washes his car every day.  
-  The man is rich.  
+     
+     
+    1.1 先行词在从句做主语  
+    The man washes his car every day.  
+    The man is rich.  
    => The man [who|that] washes his car every day is rich.  (that 不能省)
    
    The Movies make me think.  
