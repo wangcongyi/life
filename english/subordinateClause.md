@@ -26,22 +26,39 @@
    如果先行词是物 关系代词为 which/whose/that  
    He washes the car every day.  
    The car is awesome.  
-    => The car which he washes every day is awesome.  
+     => The car which he washes every day is awesome.  
      
      
-    1.1 先行词在从句做主语  
+    1.1 先行词在从句做主语  （这种情况下 that 不能省）
     The man washes his car every day.  
     The man is rich.  
-   => The man [who|that] washes his car every day is rich.  (that 不能省)
+      => The man [who | that] washes his car every day is rich.  (that 不能省)
    
-   The Movies make me think.  
-   I like movies.  
-    => I like the movies [which|that] make me think. (that 不能省)  
+    The Movies make me think.  
+    I like movies.  
+      => I like the movies [which | that] make me think. (that 不能省)  
   
   
-  
-  
-  
+    1.2 先行词在从句做宾语 
+    I trust the man completely.  
+    Jack is a man.  
+      => Jack is a man (whom | who | that) i trust completely.  
+      
+    I saw the movie last night.  
+    The movie is excellent.  
+      => The movie (which | that) i saw last night was excellent.  
+      
+    You should talk to him.  
+    Jack is a man.  
+      => Jack is a man (whom | who | that) you should talk to.  
+      => Jack is a man to whom you should talk. (to 提前后，必须用 whom, 不能省)  
+      
+    The chair is an antique.  
+    You are sitting on that chair.  
+      => The chair (whick | that) you are sitting on is an antique.  
+      => The chair on which you are sitting is an antique. (on 提前后，必须用 which, 不能省)
+      
+    
   
   
   
