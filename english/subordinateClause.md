@@ -29,7 +29,7 @@
      => The car which he washes every day is awesome.  
      
      
-    1.1 先行词在从句做主语  （这种情况下 that 不能省）
+    1.1 先行词在从句做主语  （这种情况下 that 不能省）  
     The man washes his car every day.  
     The man is rich.  
       => The man [who | that] washes his car every day is rich.  (that 不能省)
@@ -39,7 +39,7 @@
       => I like the movies [which | that] make me think. (that 不能省)  
   
   
-    1.2 先行词在从句做宾语 
+    1.2 先行词在从句中做宾语   
     I trust the man completely.  
     Jack is a man.  
       => Jack is a man (whom | who | that) i trust completely.  
@@ -58,9 +58,24 @@
       => The chair (whick | that) you are sitting on is an antique.  
       => The chair on which you are sitting is an antique. (on 提前后，必须用 which, 不能省)
       
-    
-  
-  
-  
+    1.3 先行词在从句中做补语  
+    After the stroke John is not the man.  
+    He used to be the man.  
+      => After the stroke, John is not the man (who | that) he used to be.  
+   
+    The name is a really odd one.  
+    Kevin calls his dog the name.  
+      => The name (which | that) Kevin calls his dog is a really odd one.  
+
+
+> 非限定从句  
+   This is my mom who loves me very much.  
+   This is my mon, who loves me very much. 这句非限定从句 不指代、不具有指示功能，是个可有可无的补充说明  
+   
+   I met Jack, who went to the same high school with me.  
+   I met Jack, who worked at the same company with me.  
+   
+   
+   
   
   
