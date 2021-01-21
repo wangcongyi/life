@@ -12,8 +12,8 @@ The doctor did not leave the patient [until he was sure everything was all right
 => [Not until he was sure everything was all right] did the doctor leave the patient.  
 
 
-The man hardly ever leaves home after 9pm.  
-=> Hardly ever does the man leave home after 9pm.
+The man hardly ever leaves home after 9 pm.  
+=> Hardly ever does the man leave home after 9 pm.
 
 
 So am I  & So do I 这类倒装比较简单就不赘述了  
