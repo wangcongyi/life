@@ -21,15 +21,18 @@
   - I should like to give it a try, if i knew how.
   - If i had wings, I could fly to your side.
   - He might be able to help if he were here.
+  - I would wash my car if i had the time.
   
  
 对过去的虚拟  
   - The accident could have been prevented if the driver had been more careful.
+  - I would have washed my car if i had had the time yesterday.
 
 
 对将来的虚拟
   - If i were to tell the truth to my boyfriend, he would kill me!  
   - If he were to graduate on schedule, you could call me blind.
+  - I would wash my car if i were to have the time tomorrow.
   
   
   
