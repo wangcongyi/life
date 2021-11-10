@@ -36,3 +36,22 @@
   
   
   
+  #### Compare:
+  if i have / if it is etc...
+  - I must go and see Helen. If i have time, I will go today.  =====  maybe I'll have time, so maybe I'll go
+  - I like that jacket. I'll buy it if it isn't too expensive. =====  maybe it will not be too expensive.
+  - I'll help you if i can.
+  
+  if i had / if it was etc...
+  - I must go and see Helen. If i had time, I would go today. =====  I don't have time today, so I will not go
+  - I like this jacket, but it's very expensive. I'd buy it if it wasn't so expensive. =====  it is expensive, so i'm not going to buy it
+  - I'd help you if i could, but i can't.
+  
+  
+  
+  
+  
+  
+  
+  
+  
