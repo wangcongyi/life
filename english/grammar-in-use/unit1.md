@@ -17,6 +17,7 @@
   - The company I work for isn't doing so well this year.
   - I'm working hard today.
 
-- We use the present continuous when we talk about a change that has started to happen.(getting, becoming, changing, starting, beginning).
+- We use the present continuous when we talk about a change that has started to happen.  
+  (getting, becoming, changing, starting, beginning).
   - Is your English getting better?
   - At first i didn't like my job, but I'm starting to enjoy it now.
