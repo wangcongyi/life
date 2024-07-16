@@ -8,7 +8,7 @@
 - [ ] 冰岛  B站up主 [亲爱的嘉倩](https://space.bilibili.com/388362147)  
 - [ ] 挪威 塞尼亚岛 [jasmine茉莉与冰川](https://www.bilibili.com/video/BV1um4y1m7Yq/)
 - [ ] 葡萄牙 西班牙 亚速尔群岛 [西葡线攻略](http://www.mafengwo.cn/gonglve/ziyouxing/14268.html)
-- [ ] 马达加斯加 猴面包树 B站up主 [张猫猫历险记](https://www.bilibili.com/video/BV1MX4y1o7uy)
+- [x] 马达加斯加 猴面包树 B站up主 [张猫猫历险记](https://www.bilibili.com/video/BV1MX4y1o7uy)
 - [ ] 台湾  知乎收藏夹
 - [x] 日本  知乎收藏夹  
 - [ ] 德国  伍珀塔尔 —— 悬空缆车、动物园、市政厅、彩虹阶梯； 法拉克福
